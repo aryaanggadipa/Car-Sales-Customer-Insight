@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis data penjualan mobil guna mengidentifika
 
 ## 📊 Dashboard Interaktif
 
-![Dashboard Penjualan Mobil]\(dashboard.png)
+![Dashboard Penjualan Mobil](dashboard.png)
 
 **Tautan**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzRiZDg1MGItNzcxZi00MWNlLTkzMDEtZjE4ZjIxNTllYTljIiwidCI6IjkwYWZmZTBmLWMyYTMtNDEwOC1iYjk4LTZjZWI0ZTk0ZWYxNSIsImMiOjEwfQ%3D%3D)
 
