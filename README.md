@@ -1,8 +1,8 @@
-# 🚗 Car Sales Analysis & Customer Insights Dashboard
+# Car Sales Analysis & Customer Insights Dashboard
 
 Proyek ini bertujuan untuk menganalisis data penjualan mobil guna mengidentifikasi pola pelanggan, segmentasi, serta preferensi pembelian. Proyek ini mencakup eksplorasi data, visualisasi interaktif menggunakan Power BI, dan penerapan teknik data mining (clustering & classification) untuk mendapatkan insight yang dapat digunakan dalam pengambilan keputusan bisnis.
 
-## 📊 Dashboard Interaktif
+## Dashboard Interaktif
 
 ![Dashboard Penjualan Mobil](dashboard.png)
 
@@ -19,7 +19,7 @@ Dashboard ini menampilkan:
 - Rata-rata harga mobil yang dibeli berdasarkan segmentasi pelanggan.
 - Mobil terlaris berdasarkan body style.
 
-## 📁 Dataset
+## Dataset
 
 Dataset diambil dari Kaggle: [Car Sales Report Dataset](https://www.kaggle.com/datasets/missionjee/car-sales-report)
 
@@ -29,13 +29,13 @@ Dataset ini mencakup informasi seperti:
 - Informasi pelanggan (gender, segmentasi)
 - Detail penjualan
 
-## 🔍 Tujuan Analisis
+## Tujuan Analisis
 
 1. Menyediakan visualisasi interaktif untuk manajemen penjualan mobil.
 2. Mengelompokkan pelanggan berdasarkan karakteristik pembelian menggunakan **clustering**.
 3. Memprediksi preferensi tipe bodi mobil berdasarkan karakteristik pelanggan menggunakan **classification**.
 
-## 🧠 Teknik Data Mining
+## Teknik Data Mining
 
 ### 1. Clustering (Customer Segmentation)
 
